@@ -1,3 +1,10 @@
+# How to run this project
+
+1. Clone it
+2. Import bitblog.sql database
+3. Change database params in .env file
+3. Run in terminal: php artisan serve
+
 # Task for Front End Developer
 
 ## Few simple steps
